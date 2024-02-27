@@ -1,0 +1,21 @@
+.img {
+    height: 60vh;
+    width: 30%;
+}
+
+.video {
+    height: 50vh;
+    width: 25%;
+}
+
+.bullets li {
+    list-style: none;
+}
+
+.bullets li:before {
+    content: "◆" ;
+    display: inline-block; 
+    width: 16px;
+    margin-left: -16px;
+    font-size: 12px;
+}
