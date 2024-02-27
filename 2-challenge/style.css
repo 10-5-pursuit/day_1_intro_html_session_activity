@@ -1,0 +1,58 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #a3e5f1;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+}
+li{
+    font-size: 15px;
+
+}
+.color-spectrum h3{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+
+    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.imgcolor {
+    margin-left: 20px;
+}
+.imgcolor img{
+    width: 120px;
+}
+.imgcolor #pic{
+    margin-top: -5px;
+    font-style: oblique;
+    font-size: 12px;
+}
+.imgcolor p{
+    font-style: italic;
+    font-size: 14px;
+}
+.gallery #imgAbs{
+    width: 170px;
+}
+.gallery #imgSculp{
+    width: 240px;
+}
+.gallery #abstract {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: -5px;
+}
+.gallery #Sculpture {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: -5px;
+}
+
+
